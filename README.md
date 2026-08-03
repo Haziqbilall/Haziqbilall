@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer · AI/ML Enthusiast
 
-I'm a Computer Science student at FAST NUCES, Lahore. I build full-stack web applications and enjoy exploring how AI and machine learning can be used to solve practical problems.
+I’m a Computer Science student at FAST-NUCES, Lahore, with experience building full-stack applications and a growing interest in applying artificial intelligence and machine learning to real-world problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-haziqbilal.site-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://haziqbilal.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-bilal-679558190)
@@ -10,21 +10,11 @@ I'm a Computer Science student at FAST NUCES, Lahore. I build full-stack web app
 
 ## A little about me
 
-I'm a third-year **Computer Science student at FAST NUCES, Lahore**, focused on full-stack engineering and scalable application architecture. I enjoy working across the stack: shaping responsive interfaces, designing secure APIs, modeling reliable data, and deploying applications that solve real problems.
+I'm a **Computer Science student at FAST NUCES, Lahore** and a full-stack developer who enjoys taking ideas from the frontend all the way to the database and deployment. Most of my work is built with **TypeScript, React, Node.js, NestJS, and PostgreSQL**.
 
-- Shipped a production maintenance platform for a real water-treatment client
-- Build primarily with **TypeScript, React, Node.js, NestJS, and PostgreSQL**
-- Explore practical AI through semantic retrieval and LLM-assisted diagnostics
-- Care about maintainable architecture, useful automation, and measurable product value
+I've worked on everything from a production maintenance platform for a water-treatment client to collaborative finance and developer tools. These projects have taught me how to design secure APIs, model real-world data, and build software that people can actually use.
 
-## What I engineer
-
-```text
-PRODUCT LAYER     Responsive React interfaces and real-time workflows
-SERVICE LAYER     Typed APIs, authentication, validation, and business logic
-DATA LAYER        Relational modeling, document storage, and semantic retrieval
-DELIVERY LAYER    AWS infrastructure, deployment pipelines, and observability
-```
+I'm also interested in the practical side of **AI and machine learning**. Through projects such as CodeMap and API Sentinel, I've explored semantic code search and LLM-assisted diagnostics, and I'm continuing to grow my skills in applied AI/ML.
 
 ## Selected work
 
@@ -64,39 +54,54 @@ An AI-powered platform that indexes large repositories and lets developers query
 - Built high-performance indexing and retrieval services across TypeScript and Python
 - Turned natural-language questions into relevant, context-aware codebase results
 
-## Toolbox
+## Tech Stack
 
-**Languages**
+### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-475569?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="48" height="48" />
+</p>
 
-**Application development**
+### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="48" height="48" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/typeorm-logo-colored-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/typeorm-logo-colored-light.png" />
+    <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/typeorm-logo-colored-light.png" title="TypeORM" alt="TypeORM" width="121" height="24" />
+  </picture>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="48" height="48" />
+</p>
 
-**Data, cloud, and tools**
+### Databases & Cloud
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="48" height="48" />
+</p>
+
+### Developer Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" title="MS-DOS" alt="MS-DOS" width="48" height="48" />
+</p>
 
 ## Experience & education
 
