@@ -62,8 +62,7 @@ An AI-powered platform that indexes large repositories and lets developers query
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="48" height="48" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="48" height="48" />
@@ -74,19 +73,21 @@ An AI-powered platform that indexes large repositories and lets developers query
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/typeorm-logo-colored-light.png" />
     <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/typeorm-logo-colored-light.png" title="TypeORM" alt="TypeORM" width="121" height="24" />
   </picture>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="48" height="48" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="48" height="48" />
 </p>
 
-## Let's build something useful
-
-I'm interested in thoughtful software, ambitious engineering problems, and conversations with people building products that matter. The best way to reach me is by [email](mailto:haziqbilal7@gmail.com) or [LinkedIn](https://www.linkedin.com/in/haziq-bilal-679558190). You can also see more of my work at [haziqbilal.site](https://haziqbilal.site/).
-
 <div align="center">
 
-<sub>Design clearly · Build thoughtfully · Ship reliably</sub>
+## Let's Connect
+
+Have a project, collaboration, or opportunity in mind? I'd be happy to talk about full-stack development, AI/ML, or an idea worth building.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-bilal-679558190)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://haziqbilal.site/)
+[![Email](https://img.shields.io/badge/Email-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haziqbilal7@gmail.com)
 
 </div>
