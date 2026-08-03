@@ -6,11 +6,9 @@ I’m a Computer Science student at FAST-NUCES, Lahore, with experience building
 
 ## A little about me
 
-I'm a **Computer Science student at FAST NUCES, Lahore** and a full-stack developer who enjoys taking ideas from the frontend all the way to the database and deployment. Most of my work is built with **TypeScript, React, Node.js, NestJS, and PostgreSQL**.
+I’m a Computer Science undergrad at **FAST-NUCES Lahore**, where deadlines move faster than bugs can be fixed. Full-stack development is where I feel most at home, working with **TypeScript, React, Node.js, NestJS, and PostgreSQL** to take applications from interface to deployment.
 
-I've worked on everything from a production maintenance platform for a water-treatment client to collaborative finance and developer tools. These projects have taught me how to design secure APIs, model real-world data, and build software that people can actually use.
-
-I'm also interested in the practical side of **AI and machine learning**. Through projects such as CodeMap and API Sentinel, I've explored semantic code search and LLM-assisted diagnostics, and I'm continuing to grow my skills in applied AI/ML.
+I’ve built a production platform for a real water-treatment client, a collaborative finance application, and developer tools involving semantic search and LLM-assisted diagnostics. These projects sparked my growing interest in **AI and machine learning**, particularly how they can be meaningfully integrated into useful software. I’m always learning, building, and looking for interesting problems worth solving.
 
 ## Selected work
 
