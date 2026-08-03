@@ -4,10 +4,6 @@
 
 I’m a Computer Science student at FAST-NUCES, Lahore, with experience building full-stack applications and a growing interest in applying artificial intelligence and machine learning to real-world problems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-haziqbilal.site-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://haziqbilal.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-bilal-679558190)
-[![Email](https://img.shields.io/badge/Email-haziqbilal7%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haziqbilal7@gmail.com)
-
 ## A little about me
 
 I'm a **Computer Science student at FAST NUCES, Lahore** and a full-stack developer who enjoys taking ideas from the frontend all the way to the database and deployment. Most of my work is built with **TypeScript, React, Node.js, NestJS, and PostgreSQL**.
