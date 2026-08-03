@@ -1,14 +1,12 @@
-![Haziq Bilal — Full-Stack Developer](./assets/profile-banner.svg)
+# Hi, I'm Haziq Bilal
 
-<div align="center">
+### Full-Stack Developer · AI/ML Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-haziqbilal.site-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://haziqbilal.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-bilal-679558190)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haziqbilal7@gmail.com)
+I'm a Computer Science student at FAST NUCES, Lahore. I build full-stack web applications and enjoy exploring how AI and machine learning can be used to solve practical problems.
 
-</div>
-
-> I build dependable full-stack products that turn operational complexity into clear, useful software—from water-treatment workflows to semantic code search.
+[![Portfolio](https://img.shields.io/badge/Portfolio-haziqbilal.site-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://haziqbilal.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-bilal-679558190)
+[![Email](https://img.shields.io/badge/Email-haziqbilal7%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haziqbilal7@gmail.com)
 
 ## A little about me
 
