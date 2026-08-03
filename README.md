@@ -1,6 +1,6 @@
 # Hi, I'm Haziq Bilal
 
-### Full-Stack Developer · AI/ML Enthusiast
+![Animated introduction](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=2F81F7&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FML+Enthusiast;TypeScript+%7C+React+%7C+NestJS+%7C+PostgreSQL)
 
 I’m a Computer Science student at FAST-NUCES, Lahore, with experience building full-stack applications and a growing interest in applying artificial intelligence and machine learning to real-world problems.
 
@@ -56,8 +56,6 @@ An AI-powered platform that indexes large repositories and lets developers query
 
 ## Tech Stack
 
-### Languages
-
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48" />
@@ -66,11 +64,6 @@ An AI-powered platform that indexes large repositories and lets developers query
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="48" height="48" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="48" height="48" />
@@ -82,39 +75,11 @@ An AI-powered platform that indexes large repositories and lets developers query
     <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/typeorm-logo-colored-light.png" title="TypeORM" alt="TypeORM" width="121" height="24" />
   </picture>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="48" height="48" />
-</p>
-
-### Databases & Cloud
-
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="48" height="48" />
 </p>
-
-### Developer Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" title="MS-DOS" alt="MS-DOS" width="48" height="48" />
-</p>
-
-## Experience & education
-
-**Information Technology Intern · Pak Elektron Limited (PEL)**
-
-`June 2025 — August 2025` · Lahore, Pakistan
-
-- Supported day-to-day IT operations, system troubleshooting, and reliable user access
-- Assisted with Oracle Database Administration tasks involving data accuracy, consistency, and maintenance
-
-**BS Computer Science · FAST NUCES**
-
-`September 2023 — Present` · Pakistan
 
 ## Let's build something useful
 
