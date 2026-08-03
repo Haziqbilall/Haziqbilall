@@ -2,8 +2,6 @@
 
 ![Animated introduction](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=2F81F7&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FML+Enthusiast;TypeScript+%7C+React+%7C+NestJS+%7C+PostgreSQL)
 
-I’m a Computer Science student at FAST-NUCES, Lahore, with experience building full-stack applications and a growing interest in applying artificial intelligence and machine learning to real-world problems.
-
 ## A little about me
 
 I’m a Computer Science undergrad at **FAST-NUCES Lahore**, where deadlines move faster than bugs can be fixed. Full-stack development is where I feel most at home, working with **TypeScript, React, Node.js, NestJS, and PostgreSQL** to take applications from interface to deployment.
