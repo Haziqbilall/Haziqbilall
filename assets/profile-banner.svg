@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Haziq Bilal — Full-Stack Developer</title>
+  <desc id="desc">A dark blue developer profile banner with cyan and green accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b1f35"/>
+      <stop offset="1" stop-color="#0b2b3b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94a3b8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="110" rx="300" ry="230" fill="url(#glow)"/>
+
+  <g opacity="0.55" fill="none" stroke="url(#accent)" stroke-width="2">
+    <path d="M940 50h80l35 35h82"/>
+    <path d="M900 255h65l30-30h142"/>
+    <path d="M1025 105h95l35 35"/>
+  </g>
+  <g fill="#38bdf8">
+    <circle cx="940" cy="50" r="4"/>
+    <circle cx="1137" cy="85" r="4"/>
+    <circle cx="900" cy="255" r="4"/>
+    <circle cx="1137" cy="225" r="4"/>
+    <circle cx="1025" cy="105" r="4"/>
+  </g>
+
+  <rect x="70" y="61" width="6" height="151" rx="3" fill="url(#accent)"/>
+  <text x="105" y="105" fill="#7dd3fc" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="4">HELLO, I AM</text>
+  <text x="101" y="174" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="750" letter-spacing="1">Haziq Bilal</text>
+  <text x="105" y="213" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="24">Full-Stack Developer · Computer Science Student</text>
+
+  <g font-family="Consolas, Segoe UI, monospace" font-size="15" font-weight="600">
+    <rect x="105" y="249" width="177" height="34" rx="17" fill="#0f3047" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <circle cx="126" cy="266" r="4" fill="#38bdf8"/>
+    <text x="140" y="272" fill="#bae6fd">SCALABLE SYSTEMS</text>
+
+    <rect x="296" y="249" width="177" height="34" rx="17" fill="#0f3047" stroke="#34d399" stroke-opacity="0.45"/>
+    <circle cx="317" cy="266" r="4" fill="#34d399"/>
+    <text x="331" y="272" fill="#a7f3d0">AI-POWERED TOOLS</text>
+
+    <rect x="487" y="249" width="151" height="34" rx="17" fill="#0f3047" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <circle cx="508" cy="266" r="4" fill="#38bdf8"/>
+    <text x="522" y="272" fill="#bae6fd">CLOUD DELIVERY</text>
+  </g>
+</svg>
